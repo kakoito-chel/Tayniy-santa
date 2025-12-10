@@ -8,7 +8,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 from storage import gift_links, confirmed, assigned, available_targets, numbers_map, user_ids, ALLOWED_USERS, save_storage
 
-BOT_TOKEN = "8279064805:AAFHx2nLYrsFSy-l7rtLm3ViuMfyJCD81Co"
+BOT_TOKEN = "8279064805:AA***********************yJCD81Co"
 
 dp = Dispatcher()
 
